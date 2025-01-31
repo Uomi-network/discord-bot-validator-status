@@ -1,0 +1,174 @@
+{
+  "emRZU58nx8bRuUACYGnPg8dtAVomJNHTfyjogisBuW36wfFH3": {
+    "address": "emRZU58nx8bRuUACYGnPg8dtAVomJNHTfyjogisBuW36wfFH3",
+    "inactivityNotified": [
+      10
+    ],
+    "slashed": false,
+    "commission": 1,
+    "lastNotification": 1738266960814,
+    "active": true,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 24620,
+      "performance": "8.62"
+    },
+    "isActive": true
+  },
+  "emNak4t4Gz7rd76ynjUEpimV32zPLZicxfH362uMHGSWXPF3x": {
+    "address": "emNak4t4Gz7rd76ynjUEpimV32zPLZicxfH362uMHGSWXPF3x",
+    "inactivityNotified": [],
+    "slashed": false,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 23100,
+      "performance": "8.09"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emNg4DsXTuszgV7nnYfFFDsKNsZV3NYZgqjAZ3YiKq4VxYuSi": {
+    "address": "emNg4DsXTuszgV7nnYfFFDsKNsZV3NYZgqjAZ3YiKq4VxYuSi",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 22100,
+      "performance": "7.74"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emPSJdMbLcZW1sFG8pvyS9aYQL4F3nnP8VSGDDq8AwqhQxGzk": {
+    "address": "emPSJdMbLcZW1sFG8pvyS9aYQL4F3nnP8VSGDDq8AwqhQxGzk",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 23420,
+      "performance": "8.20"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emTYPExUwfxutwtzmJ88fy3vMeWHz1L6YaLrHAGuCcUdVw2J1": {
+    "address": "emTYPExUwfxutwtzmJ88fy3vMeWHz1L6YaLrHAGuCcUdVw2J1",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 0,
+      "performance": "0.00"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emTrc4XMYFNr7Gj52fZYuk8ot5Ty6nho21gpagkHaJ24HMjDT": {
+    "address": "emTrc4XMYFNr7Gj52fZYuk8ot5Ty6nho21gpagkHaJ24HMjDT",
+    "inactivityNotified": [],
+    "slashed": false,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 28480,
+      "performance": "9.98"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emTzSag228VQH3BUPjnXffCpzbpmH4vQqfiu1EE9EEJW25nxp": {
+    "address": "emTzSag228VQH3BUPjnXffCpzbpmH4vQqfiu1EE9EEJW25nxp",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 23680,
+      "performance": "8.29"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emU4GHZrMFQ893ZEgpZW4SXs687RzK72TkEqpy9DdLa8MrPUN": {
+    "address": "emU4GHZrMFQ893ZEgpZW4SXs687RzK72TkEqpy9DdLa8MrPUN",
+    "inactivityNotified": [],
+    "slashed": false,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 22720,
+      "performance": "7.96"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emPnvsxxNaJfik9GnHu64SKpmmAxVSmgJbHpZdeY5QmeWKtNs": {
+    "address": "emPnvsxxNaJfik9GnHu64SKpmmAxVSmgJbHpZdeY5QmeWKtNs",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 23080,
+      "performance": "8.08"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emQkAMfuhvix6mRyirSjJxXnXDcabMnV5WLK44x7hxUxdJ3fx": {
+    "address": "emQkAMfuhvix6mRyirSjJxXnXDcabMnV5WLK44x7hxUxdJ3fx",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 23360,
+      "performance": "8.18"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emQy8JaHAJptRFbt75dXhCvSAChCsgdBWZ3Dy9afS1BxU8SvM": {
+    "address": "emQy8JaHAJptRFbt75dXhCvSAChCsgdBWZ3Dy9afS1BxU8SvM",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 24100,
+      "performance": "8.44"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emSxr2HguWi9LGFx2eiVF241renEdCX934L9c6a8W1RxKoaeC": {
+    "address": "emSxr2HguWi9LGFx2eiVF241renEdCX934L9c6a8W1RxKoaeC",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 22960,
+      "performance": "8.04"
+    },
+    "lastNotification": null,
+    "active": true
+  },
+  "emTuud6bwR5tDfDbe8XWAAGuirYBvYJrc4uPUE51Ed3vrZ1oa": {
+    "address": "emTuud6bwR5tDfDbe8XWAAGuirYBvYJrc4uPUE51Ed3vrZ1oa",
+    "inactivityNotified": [],
+    "slashed": true,
+    "commission": 1,
+    "eraPoints": {
+      "total": 285500,
+      "validator": 23880,
+      "performance": "8.36"
+    },
+    "lastNotification": null,
+    "active": true
+  }
+}
